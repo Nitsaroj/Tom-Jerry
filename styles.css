@@ -1,0 +1,19 @@
+body {
+        margin: 0;
+        overflow: hidden;
+        background-color: #0f0f0f;
+      }
+      .draggable {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        border-radius: 1rem;
+        cursor: grab;
+        will-change: transform;
+        box-shadow: 0 10px 20px rgba(0, 0, 0, 0.4);
+        object-fit: cover;
+      }
+      .draggable:active {
+        cursor: grabbing;
+      }
