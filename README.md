@@ -1,4 +1,4 @@
-# 🎬 GSAP + Tailwind CSS Animated Landing Page
+# 🎬 GSAP + Tailwind CSS Animated Page
 
 This is a visually interactive animation project featuring stacked **draggable images**, a **loading preloader**, and smooth **GSAP animations** — built completely with **free tools**.
 
